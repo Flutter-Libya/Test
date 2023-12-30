@@ -9,7 +9,7 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -145,7 +145,7 @@ class _LoginState extends State<Login> {
             child: Column(children: [
               SizedBox(height: 15 * 2),
 
-              //textfield for email
+          
               PhysicalModel(
                 elevation: 5,
                 color: Color(0xffd6e2ea),
