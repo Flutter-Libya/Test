@@ -137,7 +137,7 @@ class _LoginState extends State<Login> {
           padding: EdgeInsets.only(bottom: 15),
           margin: EdgeInsets.only(bottom: 15 * 4),
           decoration: BoxDecoration(
-            //color: Colors.white,
+          
             borderRadius: BorderRadius.circular(10),
           ),
           child: Padding(
@@ -178,7 +178,7 @@ class _LoginState extends State<Login> {
               ),
               SizedBox(height: 15),
 
-              //textfield for password
+           
               PhysicalModel(
                 elevation: 5,
                 color: Color(0xffd6e2ea),
