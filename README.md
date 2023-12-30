@@ -4,10 +4,10 @@ This Flutter project demonstrates a login screen with an animated Rive illustrat
 
 ## Preview
 
-![Preview Image 1](https://github.com/your-username/your-repository/raw/main/407265088_6752366794840676_1565194659520788113_n.jpg)
-![Preview Image 2](https://github.com/your-username/your-repository/raw/main/407267771_6752366738174015_8086690596264824499_n.jpg)
-![Preview Image 3](https://github.com/your-username/your-repository/raw/main/407267771_6752366738174015_8086690596264824499_n%20(1).jpg)
-![Preview Image 4](https://github.com/your-username/your-repository/raw/main/407280057_6752367288173960_7534081982658018937_n.jpg)
+![Preview Image 1](./407265088_6752366794840676_1565194659520788113_n.jpg)
+![Preview Image 2](./407267771_6752366738174015_8086690596264824499_n.jpg)
+![Preview Image 3](./407267771_6752366738174015_8086690596264824499_n%20(1).jpg)
+![Preview Image 4](./407280057_6752367288173960_7534081982658018937_n.jpg)
 
 ## How to Use
 
